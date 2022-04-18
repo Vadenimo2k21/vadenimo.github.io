@@ -1,5 +1,18 @@
+/* Style the body */
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+/* Header/Logo Title */
 .header {
-                        /* Stick to the top */
-                        position: sticky;
-                        top: 0;
-                    }
+  padding: 1px;
+  text-align: center;
+  background: #9B0000;
+  color: white;
+  font-size: 16px;
+  box-shadow: 2px 2px 4px #000000;
+}
+
+/* Page Content */
+.content {padding:20px;}
