@@ -4,8 +4,10 @@ body {
 
 /* Header */
 .header {
-  background-color: #f1f1f1;
+  background-color: #727272;
   padding: 20px;
   text-align: center;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
+  text-shadow: 2px 2px 4px #000000;
+  color: #CD0000;
+  shadow: 2px 4px 8px 0px rgba(0, 0, 0, 0.2);
+  box-shadow: 2px 4px 8px 0px rgba(0, 0, 0, 0.2);
