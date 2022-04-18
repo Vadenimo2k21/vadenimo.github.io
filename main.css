@@ -1,10 +1,10 @@
 @font-face {
-	font-family: FOT-PopHappiness Std EB;
-	src:url("font/FOT-PopHappinessStd-EB.otf");
+	font-family: Delfino;
+	src:url("font/Delfino.otf");
 }
 
 * {
-	font-family: FOT-PopHappiness Std EB;
+	font-family: Delfino;
 	font-size: 16pt;
 	color: #000000;
 }
