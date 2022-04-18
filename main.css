@@ -1,3 +1,14 @@
+@font-face {
+	font-family: FOT-PopHappiness Std EB;
+	src:url("font/FOT-PopHappinessStd-EB.otf");
+}
+
+* {
+	font-family: FOT-PopHappiness Std EB;
+	font-size: 16pt;
+	color: #000000;
+}
+
 body {
   background-image: url("https://www.teahub.io/photos/full/218-2181440_super-paper-mario-marios-house.jpg");
   background-attachment: fixed;
