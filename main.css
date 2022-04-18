@@ -17,11 +17,10 @@ body {
 
 /* Header */
 .header {
-  background-color: #727272;
+  background-color: #C30000;
   padding: 20px;
   text-align: center;
   text-shadow: 2px 2px 4px #000000;
-  color: #CD0000;
   shadow: 2px 4px 8px 0px rgba(0, 0, 0, 0.2);
   box-shadow: 2px 4px 8px 0px rgba(0, 0, 0, 0.2);
 }
