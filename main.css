@@ -19,6 +19,7 @@ body {
 .header {
   background-color: #C30000;
   padding: 20px;
+  border-radius: 15px;
   text-align: center;
   text-shadow: 2px 2px 4px #000000;
   shadow: 2px 4px 8px 0px rgba(0, 0, 0, 0.2);
