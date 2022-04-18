@@ -1,5 +1,7 @@
 body {
-  margin: 0;
+  background-image: url("https://www.teahub.io/photos/full/218-2181440_super-paper-mario-marios-house.jpg");
+  background-attachment: fixed;
+  background-position: center;
 }
 
 /* Header */
