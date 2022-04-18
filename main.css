@@ -24,12 +24,6 @@ header {
 
 .logo {
   cursor: pointer;
-  order: 3;
-  margin-right: auto;
-}
-
-nav {
-  order: 1;
 }
 
 .nav__links {
