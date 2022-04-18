@@ -1,1 +1,1 @@
-# vadenimo.github.io
+# Vadenimo’s GitHub page
