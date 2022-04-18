@@ -1,19 +1,1 @@
-/* Style the body */
-body {
-  font-family: Arial;
-  margin: 0;
-}
 
-/* Header/Logo Title */
-.header {
-  padding: 1px;
-  text-align: center;
-  background: #9B0000;
-  color: white;
-  font-size: 16px;
-}
-
-/* Page Content */
-.content {padding:20px;}
-
-}
